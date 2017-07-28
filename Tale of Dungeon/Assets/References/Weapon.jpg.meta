@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 77e40e4f07ef72048a8735fe5c47bf2e
+timeCreated: 1500913722
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Weapon_0
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 577
+        width: 677
+        height: 944
+      alignment: 9
+      pivot: {x: 0.49544913, y: 0.607102}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 330.95203, y: 454.5404}
+        - {x: 323.1195, y: 455.75513}
+        - {x: 316.9983, y: 459.72302}
+        - {x: 312.5354, y: 462.51514}
+        - {x: 303.39978, y: 463.29297}
+        - {x: 292.61877, y: 459.7069}
+        - {x: 284.38135, y: 459.91882}
+        - {x: 276.1557, y: 463.32056}
+        - {x: 271.90894, y: 455.39282}
+        - {x: 255.83398, y: 438.7129}
+        - {x: 233.03583, y: 413.26782}
+        - {x: 215.93683, y: 393.15735}
+        - {x: 197.65967, y: 378.94727}
+        - {x: 183.40991, y: 364.6349}
+        - {x: 167.54358, y: 343.74768}
+        - {x: 77.05994, y: 251.51428}
+        - {x: -32.20752, y: 123.87329}
+        - {x: -152.62512, y: -23.51294}
+        - {x: -220.79065, y: -111.01672}
+        - {x: -245.29898, y: -157.62262}
+        - {x: -264.78705, y: -201.51392}
+        - {x: -311.80283, y: -178.98676}
+        - {x: -325.4308, y: -215.37762}
+        - {x: -329.13202, y: -243.91034}
+        - {x: -331.22778, y: -290.98468}
+        - {x: -331.9333, y: -338.9015}
+        - {x: -319.038, y: -381.5589}
+        - {x: -295.34045, y: -411.88446}
+        - {x: -265.68018, y: -440.44366}
+        - {x: -239.62964, y: -452.60406}
+        - {x: -205.3728, y: -463.057}
+        - {x: -173.11133, y: -468.00568}
+        - {x: -143.90881, y: -455.20837}
+        - {x: -155.80524, y: -418.52448}
+        - {x: -163.97693, y: -385.9914}
+        - {x: -166.14783, y: -345.41998}
+        - {x: -162.25977, y: -295.15936}
+        - {x: -153.66309, y: -249.92676}
+        - {x: -205.0683, y: -230.67145}
+        - {x: -194.24622, y: -210.42047}
+        - {x: -198.29205, y: -196.4123}
+        - {x: -169.4372, y: -166.24512}
+        - {x: -141.67346, y: -140.08252}
+        - {x: -138.71783, y: -119.42145}
+        - {x: -121.2486, y: -80.43713}
+        - {x: -64.60516, y: -9.245117}
+        - {x: 46.988037, y: 130.193}
+        - {x: 155.2804, y: 245.96912}
+        - {x: 169.06366, y: 265.37048}
+        - {x: 179.24243, y: 272.2909}
+        - {x: 184.59491, y: 277.62122}
+        - {x: 188.72253, y: 286.1654}
+        - {x: 196.25012, y: 291.4093}
+        - {x: 214.01233, y: 310.2506}
+        - {x: 234.82684, y: 332.7401}
+        - {x: 251.09637, y: 345.89758}
+        - {x: 270.39496, y: 366.05237}
+        - {x: 283.22693, y: 382.48376}
+        - {x: 309.07788, y: 408.23193}
+        - {x: 337.76794, y: 444.34875}
+        - {x: 338.5, y: 450.03284}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: 0bcecb89331be2a488715774381a3d89
+timeCreated: 1500950914
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Eye_0
+    21300002: Eye_1
+    21300004: Eye_2
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Eye_0
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 971
+        width: 146
+        height: 197
+      alignment: 9
+      pivot: {x: 0.49139675, y: 0.23858209}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.753448, y: 90.37537}
+        - {x: 17.019135, y: 96.00464}
+        - {x: -4.2030945, y: 97.05383}
+        - {x: -18.452179, y: 91.84375}
+        - {x: -35.507996, y: 82.71387}
+        - {x: -43.766724, y: 66.8042}
+        - {x: -52.29898, y: 50.512817}
+        - {x: -59.715942, y: 28.819824}
+        - {x: -66.702515, y: 9.275757}
+        - {x: -69.73154, y: -8.792725}
+        - {x: -73, y: -29.310425}
+        - {x: -72.342285, y: -54.322937}
+        - {x: -71.026764, y: -62.981262}
+        - {x: -61.051727, y: -75.06323}
+        - {x: -50.271637, y: -83.924194}
+        - {x: -36.036987, y: -92.8501}
+        - {x: -10.317749, y: -94.86658}
+        - {x: 22.526337, y: -97.048584}
+        - {x: 43.401062, y: -91.922424}
+        - {x: 55.49893, y: -80.29779}
+        - {x: 62.006775, y: -63.15564}
+        - {x: 67.14392, y: -46.229736}
+        - {x: 69.98758, y: -23.283936}
+        - {x: 70.86954, y: -3.2382812}
+        - {x: 68.801025, y: 18.380249}
+        - {x: 64.79434, y: 37.180298}
+        - {x: 62.000885, y: 50.642456}
+        - {x: 56.877716, y: 59.399536}
+        - {x: 50.84366, y: 70.46936}
+        - {x: 42.08551, y: 80.74048}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eye_1
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 746
+        width: 100
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.006165, y: 34.008606}
+        - {x: 26.016357, y: 37.190308}
+        - {x: 18.000671, y: 39.180542}
+        - {x: 8.765137, y: 39.88159}
+        - {x: 0.4142456, y: 40.5}
+        - {x: -6.920166, y: 39.93683}
+        - {x: -14.32666, y: 38.420532}
+        - {x: -22.237549, y: 36.0235}
+        - {x: -29.773987, y: 33.018616}
+        - {x: -36.08484, y: 28.130981}
+        - {x: -42.600098, y: 21.698486}
+        - {x: -45.429993, y: 14.115845}
+        - {x: -47.264038, y: 5.2304688}
+        - {x: -47.492065, y: -2.4244995}
+        - {x: -46.283142, y: -8.58313}
+        - {x: -44.031616, y: -15.365784}
+        - {x: -41.66736, y: -21.231812}
+        - {x: -38.86786, y: -25.3479}
+        - {x: -36.178223, y: -27.190125}
+        - {x: -31.01477, y: -31.196838}
+        - {x: -21.825928, y: -34.96216}
+        - {x: -11.923218, y: -38.003174}
+        - {x: -2.5338745, y: -38.942017}
+        - {x: 5.5404053, y: -38.256775}
+        - {x: 13.993286, y: -37.1084}
+        - {x: 21.241943, y: -36.170837}
+        - {x: 27.61493, y: -34.973328}
+        - {x: 32.16107, y: -31.455872}
+        - {x: 37.823364, y: -26.740906}
+        - {x: 40.885437, y: -22.931763}
+        - {x: 44.939636, y: -17.200928}
+        - {x: 46.32086, y: -9.852783}
+        - {x: 47.137573, y: -1.1379395}
+        - {x: 46.57361, y: 6.5130005}
+        - {x: 43.940796, y: 14.902527}
+        - {x: 40.491272, y: 23.089355}
+        - {x: 37.01245, y: 27.821655}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Eye_2
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 480
+        width: 176
+        height: 39
+      alignment: 9
+      pivot: {x: 0.48901922, y: 0.20267116}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83.84985, y: 16.573303}
+        - {x: 77.517944, y: 17.153381}
+        - {x: 72.97803, y: 16.179688}
+        - {x: 67.61188, y: 13.730469}
+        - {x: 60.3479, y: 9.583984}
+        - {x: 50.89612, y: 4.324585}
+        - {x: 40.484375, y: 0.98150635}
+        - {x: 30.322998, y: -1.1970215}
+        - {x: 19.985413, y: -2.173523}
+        - {x: 8.378845, y: -2.580902}
+        - {x: -0.72442627, y: -3.0414124}
+        - {x: -10.162415, y: -2.63089}
+        - {x: -21.058655, y: -2.6249695}
+        - {x: -30.60382, y: -2.3970032}
+        - {x: -41.13379, y: -0.0012512207}
+        - {x: -49.46454, y: 2.73526}
+        - {x: -56.899048, y: 6.1193542}
+        - {x: -64.510376, y: 10.719727}
+        - {x: -70.6369, y: 16.070679}
+        - {x: -75.40607, y: 17.398499}
+        - {x: -80.23108, y: 16.588074}
+        - {x: -83.7724, y: 14.734558}
+        - {x: -87.69464, y: 12.4776}
+        - {x: -87.084045, y: 8.284241}
+        - {x: -82.124146, y: 3.901703}
+        - {x: -74.2771, y: -1.0595703}
+        - {x: -63.956238, y: -7.1799316}
+        - {x: -56.972595, y: -10.667267}
+        - {x: -49.39081, y: -12.677643}
+        - {x: -42.748474, y: -14.438904}
+        - {x: -34.951782, y: -15.575867}
+        - {x: -23.933472, y: -16.863007}
+        - {x: -11.405518, y: -17.415771}
+        - {x: -0.38378906, y: -16.756805}
+        - {x: 12.399292, y: -16.791351}
+        - {x: 26.869812, y: -15.510681}
+        - {x: 40.947876, y: -13.051575}
+        - {x: 51.734985, y: -10.201141}
+        - {x: 60.61902, y: -8.369049}
+        - {x: 70.510864, y: -3.834015}
+        - {x: 76.09247, y: -1.4860535}
+        - {x: 82.15613, y: 3.4569702}
+        - {x: 85.29584, y: 7.8793335}
+        - {x: 87.38934, y: 13.698914}
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
